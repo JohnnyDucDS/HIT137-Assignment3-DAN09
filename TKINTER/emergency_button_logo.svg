@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Emergency button logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A red emergency press button with the label "depress me" in the centre</desc>
+
+  <defs>
+    <radialGradient id="outerRingGrad" cx="42%" cy="38%" r="58%">
+      <stop offset="0%" stop-color="#888"/>
+      <stop offset="60%" stop-color="#555"/>
+      <stop offset="100%" stop-color="#2a2a2a"/>
+    </radialGradient>
+    <radialGradient id="innerRingGrad" cx="42%" cy="38%" r="58%">
+      <stop offset="0%" stop-color="#bbb"/>
+      <stop offset="50%" stop-color="#999"/>
+      <stop offset="100%" stop-color="#555"/>
+    </radialGradient>
+    <radialGradient id="buttonBodyGrad" cx="40%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#ff4444"/>
+      <stop offset="55%" stop-color="#cc0000"/>
+      <stop offset="100%" stop-color="#7a0000"/>
+    </radialGradient>
+    <radialGradient id="shineGrad" cx="40%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="340" cy="340" r="265" fill="url(#outerRingGrad)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="340" r="248" fill="#1a1a1a" style="fill:rgb(26, 26, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="340" r="230" fill="url(#innerRingGrad)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="340" r="214" fill="#2c2c2c" style="fill:rgb(44, 44, 44);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <circle cx="340" cy="350" r="188" fill="#8b0000" style="fill:rgb(139, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="338" r="188" fill="url(#buttonBodyGrad)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <circle cx="340" cy="338" r="188" fill="url(#shineGrad)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <ellipse cx="290" cy="255" rx="55" ry="22" fill="#ffffff" fill-opacity="0.18" transform="rotate(-28,290,255)" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <text x="340" y="324" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="1" fill="#fff" fill-opacity="0.15" style="text-transform:uppercase;;fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">DEPRESS</text>
+  <text x="340" y="386" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="1" fill="#fff" fill-opacity="0.15" style="text-transform:uppercase;;fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">ME</text>
+
+  <text x="340" y="321" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="2" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">DEPRESS</text>
+  <text x="340" y="381" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="2" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Arial, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">ME</text>
+
+  <circle cx="340" cy="340" r="186" fill="none" stroke="#ff6666" stroke-width="1.5" stroke-opacity="0.3" style="fill:none;stroke:rgb(255, 102, 102);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <path d="M 210 178 L 225 163" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 340 152 L 340 133" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 470 178 L 455 163" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 524 340 L 543 340" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 156 340 L 137 340" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 210 502 L 225 517" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 470 502 L 455 517" stroke="#cccccc" stroke-width="2.5" stroke-linecap="round" opacity="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <circle cx="340" cy="340" r="262" fill="none" stroke="#ff3300" stroke-width="3" stroke-opacity="0.6" stroke-dasharray="18 10" style="fill:none;stroke:rgb(255, 51, 0);color:rgb(255, 255, 255);stroke-width:3px;stroke-dasharray:18px, 10px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
