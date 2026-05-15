@@ -1,5 +1,7 @@
 import cv2
 import random
+import numpy as np
+from PIL import Image
 
 class ImageProcessor:
     def __init__(self):
@@ -8,11 +10,19 @@ class ImageProcessor:
         self.differences = []
 
     def load_image(self, file_path):
-        self.original_image = cv2.imread(file_path)
-
-        if self.original_image is None:
+        try:
+            # PIL can open jpg, png, bmp more reliably
+            pil_image = Image.open(file_path).convert("RGB")
+    
+            # PIL uses RGB, OpenCV uses BGR
+            self.original_image = cv2.cvtColor(
+                np.array(pil_image),
+                cv2.COLOR_RGB2BGR
+            )
+    
+        except Exception:
             raise ValueError("Image could not be loaded")
-
+    
         self.modified_image = self.original_image.copy()
         self.differences = []
 
