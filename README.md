@@ -30,13 +30,11 @@ The program accepts BMP, JPG and PNG images, automatically creates five visual d
 ## 📁 Project Structure
 
 ```text
-python-spot-the-difference-game/
+image-difference-game/
 ├── spot_the_difference.py
 ├── README.md
-├── requirements.txt
 ├── sample_images/
 ├── screenshots/
-└── .gitignore
 ```
 
 ## 🚀 Installation
