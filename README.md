@@ -3,7 +3,8 @@
 A desktop image-processing game developed with Python, Tkinter and OpenCV.  
 The program accepts BMP, JPG and PNG images, automatically creates five visual differences and challenges the player to identify them.
 
-![Game interface](screenshots/game_interface.png)
+<img width="2051" height="1058" alt="image" src="https://github.com/user-attachments/assets/a21be5ef-551a-470a-93b5-3a4567dd777b" />
+
 
 ## ✨ Features
 
